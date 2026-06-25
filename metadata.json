@@ -1,0 +1,8 @@
+{
+  "name": "Shironex Cloud",
+  "description": "Premium Game & Cloud Hosting platform built with high performance hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
